@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">FoodProject</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Trang chủ</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="my_foodproject_app">My FoodProject App</string>
+    <string name="hello_from_Duy">Xin chào cô và các bạn đến với Project của em!</string>
+    <string name="SignIn">Đăng nhập</string>
+    <string name="SignUp">Đăng ký</string>
+    <string name="email">Email Address</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="daily_meal">Thực đơn hằng ngày</string>
+    <string name="favourite">Món ăn yêu thích</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="my_cart">Giỏ hàng của tôi</string>
+    <string name="tranbahoangduy_gmail_com">tranbahoangduy@gmail.com</string>
+    <string name="T_B_H_D">T B H D</string>
+    <string name="product_name">Tên sản phẩm</string>
+    <string name="_5_0">5.0</string>
+    <string name="_10_00_23_00">10:00 - 23:00</string>
+</resources>
